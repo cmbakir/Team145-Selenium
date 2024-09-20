@@ -1,0 +1,41 @@
+[75156:259:0911/205906.076824:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.120 (not a warning)
+[75156:36615:0911/205906.724267:ERROR:trust_store_mac.cc(757)] Error parsing certificate:
+ERROR: Failed parsing extensions
+
+[75156:259:0911/205906.837712:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[75156:259:0911/205941.806713:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/205946.808736:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/205951.808198:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/205956.811652:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210001.814303:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210006.812908:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210011.813578:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210016.815262:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210021.816549:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210026.817190:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210027.622879:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[75156:259:0911/210027.623042:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 1, file size:0
+[75156:259:0911/210031.819605:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210036.819694:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210040.477323:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[75156:259:0911/210040.584571:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747169
+[75156:259:0911/210040.603597:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[75156:259:0911/210040.808284:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[75156:259:0911/210040.906445:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:7794
+[75156:259:0911/210041.820148:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210042.603528:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[75156:259:0911/210046.820825:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210051.821125:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210056.822303:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210101.821765:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210106.822133:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210107.298928:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:68665978
+[75156:259:0911/210111.823427:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210116.824891:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210121.825658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210126.826155:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210131.827269:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210136.832696:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210141.830012:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/210146.830568:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[75156:259:0911/211309.656398:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
